@@ -1,3 +1,4 @@
+package com.example;
 import java.security.MessageDigest; 
  
 public class AuthService { 
