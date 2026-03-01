@@ -1,3 +1,4 @@
+package com.example;
 public class OrderService { 
  
     public double calculateDiscount(String type, double amount) { 
